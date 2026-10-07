@@ -268,4 +268,4 @@ This repository serves as the official landing page for PDFCreator. The software
 **Get the most recent version of PDFCreator today!**
 
 ---
-**Last updated:** 2026-10-06 20:02:06 UTC
+**Last updated:** 2026-10-07 00:26:17 UTC
